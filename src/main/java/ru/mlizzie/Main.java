@@ -9,5 +9,7 @@ public class Main {
         Solution solution = new Solution();
         System.out.println(solution.strStr("mississippi","issip"));
 
+        System.out.println(solution.climbStairs(5));
+
     }
 }
